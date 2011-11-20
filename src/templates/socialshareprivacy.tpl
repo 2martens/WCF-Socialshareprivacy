@@ -28,3 +28,4 @@ jQuery(document).ready(function($) {
 });
 // ]]>
 </script>
+<div id="socialshareprivacy"></div>
