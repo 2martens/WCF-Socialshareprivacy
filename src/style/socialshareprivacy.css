@@ -57,7 +57,7 @@
     background: transparent url("../images/icon-4ec9437b9419f.png") no-repeat top left;
     background-position: 0 -40px;
     width: 23px;
-    height: 24px;
+    height: 12px;
     overflow: hidden;
     float: left;
     margin: 4px 0 0;
@@ -65,7 +65,7 @@
     cursor: pointer;
 }
 .social_share_privacy_area li .switch.on {
-    background-position: 0 -142px; 
+    background-position: 0 -52px; 
 }
 /* Switch end */
 /* Tooltips begin */
