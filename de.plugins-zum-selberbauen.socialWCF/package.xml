@@ -7,7 +7,7 @@
         <packagedescription language="de-informal"><![CDATA[Enthält den WCF-Teil des Socialshareprivacy-Plugins.]]></packagedescription>
         <standalone>0</standalone>
         <isunique>1</isunique>
-        <version>1.0.0 Beta 3</version>
+        <version>1.0.0 Beta 4</version>
         <date>2011-11-22</date>
     </packageinformation>
     <authorinformation>
