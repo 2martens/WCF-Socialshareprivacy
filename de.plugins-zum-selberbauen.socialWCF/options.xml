@@ -44,13 +44,13 @@
             <!-- socialshareprivacy -->
             <option name="socialshareprivacy_general_general_domain">
                 <categoryname>socialshareprivacy.general.general</categoryname>
-                <optiontype>woltlab_varchar</optiontype>
+                <optiontype>text</optiontype>
                 <defaultvalue><![CDATA[yourDomain.tld]]></defaultvalue>
                 <showorder>1</showorder>
             </option>
             <option name="socialshareprivacy_general_general_infopage">
                 <categoryname>socialshareprivacy.general.general</categoryname>
-                <optiontype>xs:anyURI</optiontype>
+                <optiontype>text</optiontype>
                 <defaultvalue><![CDATA[http://www.heise.de/ct/artikel/2-Klicks-fuer-mehr-Datenschutz-1333879.html]]></defaultvalue>
             </option>
             
@@ -63,7 +63,7 @@
             </option>
             <option name="socialshareprivacy_general_facebook_referrer">
                 <categoryname>socialshareprivacy.general.facebook</categoryname>
-                <optiontype>woltlan_varchar_nullable</optiontype>
+                <optiontype>text</optiontype>
                 <defaultvalue><![CDATA[/from/facebook]]></defaultvalue>
                 <showorder>2</showorder>
             </option>
@@ -77,7 +77,7 @@
             </option>
             <option name="socialshareprivacy_general_twitter_referrer">
                 <categoryname>socialshareprivacy.general.twitter</categoryname>
-                <optiontype>woltlab_varchar_nullable</optiontype>
+                <optiontype>text</optiontype>
                 <defaultvalue><![CDATA[/from/twitter]]></defaultvalue>
                 <showorder>2</showorder>
             </option>
@@ -91,7 +91,7 @@
             </option>
             <option name="socialshareprivacy_general_gplus_referrer">
                 <categoryname>socialshareprivacy.general.gplus</categoryname>
-                <optiontype>woltlab_varchar_nullable</optiontype>
+                <optiontype>text</optiontype>
                 <defaultvalue><![CDATA[/from/gplus]]></defaultvalue>
                 <showorder>2</showorder>
             </option>
