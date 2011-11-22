@@ -7,7 +7,7 @@
         <packagedescription language="de-informal"><![CDATA[Enthält den WCF-Teil des Socialshareprivacy-Plugins.]]></packagedescription>
         <standalone>0</standalone>
         <isunique>1</isunique>
-        <version>1.0.0 Beta 4</version>
+        <version>1.0.0 Beta 5</version>
         <date>2011-11-22</date>
     </packageinformation>
     <authorinformation>
@@ -33,11 +33,8 @@
         <!-- options -->
         <options>options.xml</options>
     </instructions>
-    <instructions type="update" fromversion="1.0.0 Beta 3">
-        <!-- languages -->
-        <languages languagecode="de">de.xml</languages>
-        <languages languagecode="de-informal">de-informal.xml</languages>
-        <languages languagecode="en">en.xml</languages>
+    <instructions type="update" fromversion="1.0.0 Beta 4">
+        <templates>templates.tar</templates>
     </instructions>
        
 </package>

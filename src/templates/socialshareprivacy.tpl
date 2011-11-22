@@ -8,12 +8,12 @@ jQuery(document).ready(function($) {
                 facebook : {
                     'status' : '{if SOCIALSHAREPRIVACY_GENERAL_FACEBOOK_STATUS}on{else}off{/if}',
                     'referrer_track' : '{@SOCIALSHAREPRIVACY_GENERAL_FACEBOOK_REFERRER}',
-                    'dummy_img' : '{@RELATIVE_WCF_DIR}/dummy_facebook.png'
+                    'dummy_img' : '{@RELATIVE_WCF_DIR}images/dummy_facebook.png'
                 },
                 twitter : {
                     'status' : '{if SOCIALSHAREPRIVACY_GENERAL_TWITTER_STATUS}on{else}off{/if}',
                     'referrer_track' : '{@SOCIALSHAREPRIVACY_GENERAL_TWITTER_REFERRER}',
-                    'dummy_img' : '{@RELATIVE_WCF_DIR}/dummy_twitter.png'
+                    'dummy_img' : '{@RELATIVE_WCF_DIR}images/dummy_twitter.png'
                 },
                 gplus : {
                     'status' : '{if SOCIALSHAREPRIVACY_GENERAL_GPLUS_STATUS}on{else}off{/if}',
