@@ -26,18 +26,18 @@
         <templates>templates.tar</templates>
         
         <!-- languages -->
-        <languages languagetype="de">de.xml</languages>
-        <languages languagetype="de-informal">de-informal.xml</languages>
-        <languages languagetype="en">en.xml</languages>
+        <languages languagecode="de">de.xml</languages>
+        <languages languagecode="de-informal">de-informal.xml</languages>
+        <languages languagecode="en">en.xml</languages>
         
         <!-- options -->
         <options>options.xml</options>
     </instructions>
     <instructions type="update" fromversion="1.0.0 Beta 2">
         <!-- languages -->
-        <languages languagetype="de">de.xml</languages>
-        <languages languagetype="de-informal">de-informal.xml</languages>
-        <languages languagetype="en">en.xml</languages>
+        <languages languagecode="de">de.xml</languages>
+        <languages languagecode="de-informal">de-informal.xml</languages>
+        <languages languagecode="en">en.xml</languages>
     </instructions>
        
 </package>
