@@ -7,7 +7,7 @@
         <packagedescription language="de-informal"><![CDATA[Enthält den WCF-Teil des Socialshareprivacy-Plugins.]]></packagedescription>
         <standalone>0</standalone>
         <isunique>1</isunique>
-        <version>1.0.2</version>
+        <version>1.0.2 pl 1</version>
         <date>2011-11-28</date>
     </packageinformation>
     <authorinformation>
@@ -43,6 +43,10 @@
         <options>options.xml</options>
     </instructions>  
     <instructions type="update" fromversion="1.0.1">
+        <!-- options -->
+        <options>options.xml</options>
+    </instructions>
+    <instructions type="update" fromversion="1.0.2">
         <!-- options -->
         <options>options.xml</options>
     </instructions>     
