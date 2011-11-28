@@ -1,39 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/language.xsd">
     <category name="wcf.acp.option">
-        <item name="wcf.acp.option.category.socialshareprivacy"><![CDATA[Socialshareprivacy]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.description"><![CDATA[]]></item>         
-        <item name="wcf.acp.option.category.socialshareprivacy.general"><![CDATA[Allgemein]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.description"><![CDATA[]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.general"><![CDATA[Allgemein]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.general.description"><![CDATA[]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.facebook"><![CDATA[Facebook]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.facebook.description"><![CDATA[]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.twitter"><![CDATA[Twitter]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.twitter.description"><![CDATA[]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.gplus"><![CDATA[Google+]]></item>
-        <item name="wcf.acp.option.category.socialshareprivacy.general.gplus.description"><![CDATA[]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy"><![CDATA[Socialshareprivacy]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.description"><![CDATA[]]></item>         
+        <item name="wcf.acp.option.category.general.socialshareprivacy.general"><![CDATA[Allgemein]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.general.description"><![CDATA[]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.facebook"><![CDATA[Facebook]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.facebook.description"><![CDATA[]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.twitter"><![CDATA[Twitter]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.twitter.description"><![CDATA[]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.gplus"><![CDATA[Google+]]></item>
+        <item name="wcf.acp.option.category.general.socialshareprivacy.gplus.description"><![CDATA[]]></item>
         
         <item name="wcf.acp.option.module_socialshareprivacy"><![CDATA[Socialshareprivacy]]></item>
         <item name="wcf.acp.option.module_socialshareprivacy.description"><![CDATA[Aktiviert Socialshareprivacy]]></item>
         
-        <item name="wcf.acp.option.socialshareprivacy_general_general_domain"><![CDATA[Domain]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_general_domain.description"><![CDATA[Geben Sie hier die Domain [domain.tld] Ihrer Website ein.]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_general_infopage"><![CDATA[Info-Seite]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_general_infopage.description"><![CDATA[Geben Sie hier einen Link zu einer Informationsseite über Datenschutz ein.]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_domain"><![CDATA[Domain]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_domain.description"><![CDATA[Geben Sie hier die Domain [domain.tld] Ihrer Website ein.]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_infopage"><![CDATA[Info-Seite]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_infopage.description"><![CDATA[Geben Sie hier einen Link zu einer Informationsseite über Datenschutz ein.]]></item>
         
-        <item name="wcf.acp.option.socialshareprivacy_general_facebook_status"><![CDATA[Facebook - Status]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_facebook_status.description"><![CDATA[Aktiviert Facebook]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_twitter_status"><![CDATA[Twitter - Status]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_twitter_status.description"><![CDATA[Aktiviert Twitter]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_gplus_status"><![CDATA[Google+ - Status]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_gplus_status.description"><![CDATA[Aktiviert Google+]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_facebook_status"><![CDATA[Facebook - Status]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_facebook_status.description"><![CDATA[Aktiviert Facebook]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_twitter_status"><![CDATA[Twitter - Status]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_twitter_status.description"><![CDATA[Aktiviert Twitter]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_gplus_status"><![CDATA[Google+ - Status]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_gplus_status.description"><![CDATA[Aktiviert Google+]]></item>
         
-        <item name="wcf.acp.option.socialshareprivacy_general_facebook_referrer"><![CDATA[Facebook - Referrer]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_facebook_referrer.description"><![CDATA[Geben Sie hier den Facebook - Referrer ein (optional).]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_twitter_referrer"><![CDATA[Twitter - Referrer]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_twitter_referrer.description"><![CDATA[Geben Sie hier den Twitter - Referrer ein.]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_gplus_referrer"><![CDATA[Google+ - Referrer]]></item>
-        <item name="wcf.acp.option.socialshareprivacy_general_gplus_referrer.description"><![CDATA[Geben Sie hier den Google+ - Referrer ein.]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_facebook_referrer"><![CDATA[Facebook - Referrer]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_facebook_referrer.description"><![CDATA[Geben Sie hier den Facebook - Referrer ein (optional).]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_twitter_referrer"><![CDATA[Twitter - Referrer]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_twitter_referrer.description"><![CDATA[Geben Sie hier den Twitter - Referrer ein.]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_gplus_referrer"><![CDATA[Google+ - Referrer]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_gplus_referrer.description"><![CDATA[Geben Sie hier den Google+ - Referrer ein.]]></item>
     </category>
 </language>
