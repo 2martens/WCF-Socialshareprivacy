@@ -99,6 +99,13 @@
         </options>
     </import>
     <delete>
+        <optioncategory name="socialshareprivacy"></optioncategory>
+        <optioncategory name="socialshareprivacy.general"></optioncategory>
+        <optioncategory name="socialshareprivacy.general.general"></optioncategory>
+        <optioncategory name="socialshareprivacy.general.facebook"></optioncategory>
+        <optioncategory name="socialshareprivacy.general.twitter"></optioncategory>
+        <optioncategory name="socialshareprivacy.general.gplus"></optioncategory>
+                        
         
     </delete>
 </data>
