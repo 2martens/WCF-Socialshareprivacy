@@ -105,7 +105,15 @@
         <optioncategory name="socialshareprivacy.general.facebook"></optioncategory>
         <optioncategory name="socialshareprivacy.general.twitter"></optioncategory>
         <optioncategory name="socialshareprivacy.general.gplus"></optioncategory>
-                        
-        
+        <!-- socialshareprivacy -->
+        <option name="socialshareprivacy_general_general_domain"></option>
+        <option name="socialshareprivacy_general_general_infopage"></option>
+        <option name="socialshareprivacy_general_facebook_status"></option>
+        <option name="socialshareprivacy_general_facebook_referrer"></option>
+        <option name="socialshareprivacy_general_twitter_status"></option>
+        <option name="socialshareprivacy_general_twitter_referrer"></option>
+        <option name="socialshareprivacy_general_gplus_status"></option>
+        <option name="socialshareprivacy_general_gplus_referrer"></option>
+        <!-- /socialshareprivacy -->              
     </delete>
 </data>
