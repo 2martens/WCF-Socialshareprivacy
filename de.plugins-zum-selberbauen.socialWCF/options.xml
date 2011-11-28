@@ -99,21 +99,10 @@
         </options>
     </import>
     <delete>
-        <optioncategory name="socialshareprivacy"></optioncategory>
-        <optioncategory name="socialshareprivacy.general"></optioncategory>
-        <optioncategory name="socialshareprivacy.general.general"></optioncategory>
-        <optioncategory name="socialshareprivacy.general.facebook"></optioncategory>
-        <optioncategory name="socialshareprivacy.general.twitter"></optioncategory>
-        <optioncategory name="socialshareprivacy.general.gplus"></optioncategory>
+        <optioncategory name="general.general.socialshareprivacy"></optioncategory>
         <!-- socialshareprivacy -->
-        <option name="socialshareprivacy_general_general_domain"></option>
-        <option name="socialshareprivacy_general_general_infopage"></option>
-        <option name="socialshareprivacy_general_facebook_status"></option>
-        <option name="socialshareprivacy_general_facebook_referrer"></option>
-        <option name="socialshareprivacy_general_twitter_status"></option>
-        <option name="socialshareprivacy_general_twitter_referrer"></option>
-        <option name="socialshareprivacy_general_gplus_status"></option>
-        <option name="socialshareprivacy_general_gplus_referrer"></option>
+        <option name="general_general_socialshareprivacy_domain"></option>
+        <option name="general_general_socialshareprivacy_infopage"></option>
         <!-- /socialshareprivacy -->              
     </delete>
 </data>
