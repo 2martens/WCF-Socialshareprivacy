@@ -99,4 +99,11 @@
             <!-- /socialshareprivacy -->
         </options>
     </import>
+    <delete>
+        <optioncategory name="general.general.socialshareprivacy"></optioncategory>
+        <!-- socialshareprivacy -->
+        <option name="general_general_socialshareprivacy_domain"></option>
+        <option name="general_general_socialshareprivacy_infopage"></option>
+        <!-- /socialshareprivacy -->              
+    </delete>
 </data>
