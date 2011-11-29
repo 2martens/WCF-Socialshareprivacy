@@ -1,6 +1,6 @@
 <script type="text/javascript" src="{@RELATIVE_WCF_DIR}js/3rdParty/Socialshareprivacy.js"></script>
 <script type="text/javascript">
-// <![CDATA[
+//<![CDATA[
 jQuery(document).ready(function($) {
     if ($('#socialshareprivacy').length > 0) {
         $('#socialshareprivacy').socialSharePrivacy({
@@ -27,6 +27,6 @@ jQuery(document).ready(function($) {
         });
     }
 });
-// ]]>
+//]]>
 </script>
 <div id="socialshareprivacy"></div>
