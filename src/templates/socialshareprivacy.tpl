@@ -29,4 +29,6 @@
 	});
 	//]]>
 </script>
+<div class="container-1">
 <div id="socialshareprivacy"></div>
+</div>
