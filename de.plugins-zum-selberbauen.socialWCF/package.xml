@@ -38,8 +38,7 @@
     <instructions type="update" fromversion="1.0.4">
         <!-- options -->
         <options>options_update-10x.xml</options>
-        <useroptins>useroptions.xml</useroptins>
-        <files>files_update.tar</files>
+        <useroptions>useroptions.xml</useroptions>
         <templates>templates.tar</templates>
         
         <!-- languages -->
