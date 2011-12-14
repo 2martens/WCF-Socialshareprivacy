@@ -7,7 +7,7 @@ and is very useful.
 Version notes
 -------------
 
-The currently available source code represents the version 1.1.0 Beta 1 of WCF-Socialshareprivacy.
+The currently available source code represents the version 1.1.0 Beta 2 of WCF-Socialshareprivacy.
 
 Contribution
 ------------
