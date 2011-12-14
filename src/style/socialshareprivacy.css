@@ -74,6 +74,7 @@
 }
 .social_share_privacy_area li.help_info .info, 
 .social_share_privacy_area li .help_info.icon .info {
+    background: #fff;
     display: none;
     position: absolute;
     bottom: 40px;
