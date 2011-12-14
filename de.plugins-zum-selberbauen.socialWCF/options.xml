@@ -54,6 +54,13 @@
                 <optiontype>text</optiontype>
                 <defaultvalue><![CDATA[http://www.heise.de/ct/artikel/2-Klicks-fuer-mehr-Datenschutz-1333879.html]]></defaultvalue>
             </option>
+            <option name="general_socialshareprivacy_general_location">
+                <categoryname>general.socialshareprivacy.general</categoryname>
+                <optiontype>select</optiontype>
+                <defaultvalue><![CDATA[thread]]></defaultvalue>
+                <selectoptions><![CDATA[thread:wcf.acp.option.general_socialshareprivacy_general_location.thread
+header:wcf.acp.option.general_socialshareprivacy_general_location.header]]></selectoptions>
+            </option>
             
             <option name="general_socialshareprivacy_facebook_status">
                 <categoryname>general.socialshareprivacy.facebook</categoryname>

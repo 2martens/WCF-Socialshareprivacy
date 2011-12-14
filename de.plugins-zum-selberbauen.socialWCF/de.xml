@@ -19,6 +19,10 @@
         <item name="wcf.acp.option.general_socialshareprivacy_general_domain.description"><![CDATA[Geben Sie hier die Domain [domain.tld] Ihrer Website ein.]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_infopage"><![CDATA[Info-Seite]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_infopage.description"><![CDATA[Geben Sie hier einen Link zu einer Informationsseite über Datenschutz ein.]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location"><![CDATA[Position]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.description"><![CDATA[Wo soll das Plugin angezeigt werden?]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.thread"><![CDATA[Am Ende jedes Threads]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.header"><![CDATA[Unter dem Hauptmenü]]></item>
         
         <item name="wcf.acp.option.general_socialshareprivacy_facebook_status"><![CDATA[Facebook - Status]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_facebook_status.description"><![CDATA[Aktiviert Facebook]]></item>
@@ -33,5 +37,9 @@
         <item name="wcf.acp.option.general_socialshareprivacy_twitter_referrer.description"><![CDATA[Geben Sie hier den Twitter - Referrer ein.]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_gplus_referrer"><![CDATA[Google+ - Referrer]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_gplus_referrer.description"><![CDATA[Geben Sie hier den Google+ - Referrer ein.]]></item>
+    </category>
+    <category name="wcf.user.option">
+        <item name="wcf.user.option.seeSocialshareprivacy"><![CDATA[Socialshareprivacy anzeigen]]></item>
+        <item name="wcf.user.option.seeSocialshareprivacy.description"><![CDATA[Wählen Sie diese Option, wenn Sie die SocialPlugin-Buttons sehen möchten.]]></item>
     </category>
 </language>

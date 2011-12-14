@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/useroptions.xsd">
+    <import>
+        <categories>
+            <category name="settings">
+                <showorder>2</showorder>
+            </category>
+                <category name="settings.display">
+                    <parent>settings</parent>
+                    <showorder>3</showorder>
+                </category>
+                    <category name="settings.display.content">
+                        <parent>settings.display</parent>
+                    </category>
+        </categories>
+        <options>
+            <option name="seesSocialshareprivacy">
+                <categoryname>settings.display.content</categoryname>
+                <optiontype>boolean</optiontype>
+                <defaultvalue>1</defaultvalue>
+                <options>module_socialshareprivacy</options>
+            </option>
+        </options>
+    </import>
+</data>
