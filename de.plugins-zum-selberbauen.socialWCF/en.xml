@@ -19,6 +19,10 @@
         <item name="wcf.acp.option.general_socialshareprivacy_general_domain.description"><![CDATA[Please enter here the domain name [domain.tld] of your website.]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_infopage"><![CDATA[Info-Seite]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_infopage.description"><![CDATA[Please enter here a link to a privacy webpage.]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location"><![CDATA[Position]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.description"><![CDATA[Where the plugin should appear?]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.thread"><![CDATA[At the end of each thread (recommended)]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.header"><![CDATA[Under the main menu]]></item>
         
         <item name="wcf.acp.option.general_socialshareprivacy_facebook_status"><![CDATA[Facebook - Status]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_facebook_status.description"><![CDATA[Activates Facebook]]></item>
@@ -33,5 +37,9 @@
         <item name="wcf.acp.option.general_socialshareprivacy_twitter_referrer.description"><![CDATA[Please enter here the Twitter referrer (optional).]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_gplus_referrer"><![CDATA[Google+ - Referrer]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_gplus_referrer.description"><![CDATA[Please enter here the Google+ referrer (optional).]]></item>
+    </category>
+    <category name="wcf.user.option">
+        <item name="wcf.user.option.seeSocialshareprivacy"><![CDATA[Show Socialshareprivacy]]></item>
+        <item name="wcf.user.option.seeSocialshareprivacy.description"><![CDATA[Select this option if you want to see the social plugin buttons.]]></item>
     </category>
 </language>

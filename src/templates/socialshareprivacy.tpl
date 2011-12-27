@@ -29,6 +29,6 @@
 	});
 	//]]>
 </script>
-<div class="container-1">
+{if $eventName == 'assignVariables'}<div class="container-1">{/if}
 <div id="socialshareprivacy"></div>
-</div>
+{if $eventName == 'assignVariables'}</div>{/if}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/options.xsd">
+    <import>
+        <options>
+            <option name="general_socialshareprivacy_general_location">
+                <categoryname>general.socialshareprivacy.general</categoryname>
+                <optiontype>select</optiontype>
+                <defaultvalue><![CDATA[thread]]></defaultvalue>
+                <selectoptions><![CDATA[thread:wcf.acp.option.general_socialshareprivacy_general_location.thread
+header:wcf.acp.option.general_socialshareprivacy_general_location.header]]></selectoptions>
+            </option>
+        </options>
+    </import>
+</data>
