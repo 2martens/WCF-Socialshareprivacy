@@ -14,7 +14,7 @@
                     </category>
         </categories>
         <options>
-            <option name="seesSocialshareprivacy">
+            <option name="seeSocialshareprivacy">
                 <categoryname>settings.display.content</categoryname>
                 <optiontype>boolean</optiontype>
                 <defaultvalue>1</defaultvalue>

@@ -21,7 +21,7 @@
         <item name="wcf.acp.option.general_socialshareprivacy_general_infopage.description"><![CDATA[Please enter here a link to a privacy webpage.]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_location"><![CDATA[Position]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_location.description"><![CDATA[Where the plugin should appear?]]></item>
-        <item name="wcf.acp.option.general_socialshareprivacy_general_location.thread"><![CDATA[At the end of each thread]]></item>
+        <item name="wcf.acp.option.general_socialshareprivacy_general_location.thread"><![CDATA[At the end of each thread (recommended)]]></item>
         <item name="wcf.acp.option.general_socialshareprivacy_general_location.header"><![CDATA[Under the main menu]]></item>
         
         <item name="wcf.acp.option.general_socialshareprivacy_facebook_status"><![CDATA[Facebook - Status]]></item>
@@ -40,6 +40,6 @@
     </category>
     <category name="wcf.user.option">
         <item name="wcf.user.option.seeSocialshareprivacy"><![CDATA[Show Socialshareprivacy]]></item>
-        <item name="wcf.user.option.seeSocialshareprivacy.description"><![CDATA[Choose this option, if you want to see the social plugin buttons.]]></item>
+        <item name="wcf.user.option.seeSocialshareprivacy.description"><![CDATA[Select this option if you want to see the social plugin buttons.]]></item>
     </category>
 </language>
